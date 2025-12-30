@@ -21,7 +21,7 @@ export default () => {
     <div className="mx-auto grid min-h-svh w-full place-items-center bg-blue-500 p-4 text-white sm:max-w-sm">
       <div className="grid gap-4">
         <h1 className="text-center font-black text-2xl">
-          Welcome to Num 2 Word
+          Welcome to Num 2 Word!
         </h1>
         <p className="text-center">{randomNumber.toLocaleString('en-US')}</p>
         <p
