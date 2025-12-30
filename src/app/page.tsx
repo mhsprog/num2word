@@ -24,7 +24,6 @@ export default () => {
           Welcome to Num 2 Word!
         </h1>
         <p className="text-center">{randomNumber.toLocaleString('en-US')}</p>
-        <p style="direction: ltr;">nfG6yALILTGjHZ1Awy5JZAH-gkp2vEtgGl7SaYkBoiQ</p>
         <p
           className={cn(
             'text-center duration-200',
